@@ -43,5 +43,4 @@ int main(int argc, char *argv[]) {
     }
     out.close();
 }
-    
-    
+        
