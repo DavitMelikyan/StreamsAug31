@@ -1,0 +1,3 @@
+username=alice
+points=42
+theme=dark
